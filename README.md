@@ -29,7 +29,7 @@ Deployment: Netlify
 1. Clone the Repository
 bash
 
-git clone https://github.com/your-username/university-of-youtube.git
+git clone https://github.com/mryashu7737/youtubeFeature.git
 cd university-of-youtube
 
 2. Install Dependencies
